@@ -7,12 +7,15 @@ Technologies used: Hibernate for ORM, Spring Boot for backend services, Angular 
 
 # Project Structure
 Frontend:
+
 ![image](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/56fffd00-6b36-49db-b494-14ca04085dd0)
 
 Backend:
+
 ![image](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/9c0d0c3f-a0f2-45a3-a18e-6b45a6217d83)
 
 DataBase:
+
 ![image](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/a78590bc-3b20-49d7-af2c-055ad35b08fc)
 
 # Set Up The Project
@@ -48,9 +51,11 @@ Frontend:
 4. Access the application via http://localhost:4200.
 
 Contributing
+
 Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 Acknowledgments
+
 Inspired by the need for efficient frontend interfaces. Thanks to all the contributors who made this project possible.
 
 SnapShots:
@@ -66,3 +71,38 @@ SnapShots:
 
 ![Screenshot 2024-06-28 155912](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/16d4c104-2be2-41f5-8fdf-0015aa69e060)
 
+![Screenshot 2024-06-28 155936](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/9ede123d-dcde-4871-93ce-7b363de974bd)
+
+![Screenshot 2024-06-28 155946](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/bb14de2c-5a27-4b32-b83b-7c23acbb18de)
+
+![Screenshot 2024-06-28 155955](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/46dd0b04-39c9-471e-981d-ebe0d6004545)
+
+![Screenshot 2024-06-28 160056](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/413dd02b-329f-402e-8ad4-e4d1c60e05d9)
+
+![Screenshot 2024-06-28 160135](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/a58ecd94-2be2-46a9-a7a4-a65c748df7a7)
+
+![Screenshot 2024-06-28 160146](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/ed402e9a-e77f-4e86-a0c4-a5527388c688)
+
+![Screenshot 2024-06-28 160200](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/94631ae4-54c1-49ec-98f8-8ac05d44e0ca)
+
+![Screenshot 2024-06-28 160444](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/c270dda0-fd45-4959-b93b-452fc4e883f9)
+
+![Screenshot 2024-06-28 160911](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/2927c12a-e1e7-4321-99e4-0bbc61ae75f7)
+
+Admin:
+
+![Screenshot 2024-06-28 155433](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/1c223aed-2643-4a32-8981-678809bacd23)
+
+![Screenshot 2024-06-28 155522](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/7b7e8961-d109-4bef-86f9-746bb92248ff)
+
+![Screenshot 2024-06-28 155727](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/4015c74d-87ed-4091-bc1d-fdf63957aec3)
+
+![Screenshot 2024-06-28 155752](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/0d886cd0-1a7c-4768-81b4-a2b8fc38f141)
+
+![Screenshot 2024-06-28 155801](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/044dfd6c-7905-450d-8ff0-742d2b7a433d)
+
+![Screenshot 2024-06-28 155807](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/3ae23716-a730-4922-9571-7275a244e46e)
+
+![Screenshot 2024-06-28 155823](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/b33e1ee0-029c-45c0-930e-f32349844732)
+
+![Screenshot 2024-06-28 155842](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/37809182-13ea-4553-97e9-2bb76604970c)
