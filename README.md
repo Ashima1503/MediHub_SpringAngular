@@ -67,8 +67,6 @@ SnapShots:
 
 ![Screenshot 2024-06-28 155401](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/351e4191-0516-471d-94da-dfb365300057)
 
-![Screenshot 2024-06-28 155401](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/984e719d-881a-4344-b894-3e2c86c7c9f1)
-
 ![Screenshot 2024-06-28 155912](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/16d4c104-2be2-41f5-8fdf-0015aa69e060)
 
 ![Screenshot 2024-06-28 155936](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/9ede123d-dcde-4871-93ce-7b363de974bd)
