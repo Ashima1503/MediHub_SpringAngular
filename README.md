@@ -91,6 +91,8 @@ Admin:
 
 ![Screenshot 2024-06-28 155433](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/1c223aed-2643-4a32-8981-678809bacd23)
 
+![image](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/5b6a8592-bea8-4302-a790-9736cb799da4)
+
 ![Screenshot 2024-06-28 155522](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/7b7e8961-d109-4bef-86f9-746bb92248ff)
 
 ![Screenshot 2024-06-28 155727](https://github.com/Ashima1503/MediHub_SpringAngular/assets/78199579/4015c74d-87ed-4091-bc1d-fdf63957aec3)
