@@ -48,7 +48,7 @@ Frontend:
    Start the Angular development server by running:
    ng serve
 
-4. Access the application via http://localhost:4200.
+4. Access the application via http://localhost:4200/home.
 
 Contributing
 
